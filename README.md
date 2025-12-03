@@ -12,4 +12,4 @@ A 2D platformer built using ImpactJS and the Weltmeister level editor.
 **Engine:** ImpactJS
 **Level editor:** Weltmeister - built-in map editor
 **Language:** JavaScript - ES5 style as per the material 
-**Rendering:** HTML5 '<canvas>'
+**Rendering:** HTML5
